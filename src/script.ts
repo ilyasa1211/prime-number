@@ -15,7 +15,3 @@ class Prime {
         return true;
     }
 }
-
-console.log(Prime.isPrime(17));
-console.log(Prime.isPrime(14));
-console.log(Prime.isPrime(57));
